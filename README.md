@@ -22,6 +22,11 @@ TokenWise is a full-stack real-time dashboard that tracks Solana token transacti
 - **Database**: SQLite with `better-sqlite3`
 
 ---
+Place in .env file
+
+RPC_URL=https://mainnet.helius-rpc.com/?api-key=bd845ddb-1e01-4e2a-9966-a6add86bdb4e
+TARGET_TOKEN=9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump
+
 
 Run the Frontend
 cd dashboard
